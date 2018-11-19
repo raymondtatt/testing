@@ -7,8 +7,8 @@ public class raymondtest {
   double salary;
 
   // This is the constructor of the class Employee
-  public raymondtest(String name) {
-    this.name = name;
+  public raymondtest(String nem) {
+    this.name = nem;
   }
 
   // Assign the age of the Employee  to the variable age.
